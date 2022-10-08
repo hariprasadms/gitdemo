@@ -1,4 +1,4 @@
-package com.mycompany.gitdemo
+package com.mogalli.gitdemo
 
 import io.flutter.embedding.android.FlutterActivity
 
